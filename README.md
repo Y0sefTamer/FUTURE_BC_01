@@ -71,8 +71,8 @@ Documentation & GitHub repo structure
 
 Add your screenshots here (upload them to the repo and link them like this):
 
-![Signup Screenshot](screenshots/signup.png)
-![KYC Screenshot](screenshots/kyc.png)
+![Signup Screenshot](future_task1.png)
+![KYC Screenshot](future_task1_1.png)
 
 
 
